@@ -10,23 +10,6 @@ I started programming in 1979 while still in High School.  The school had purcha
 
 I started my professional career at the same time the Micro Computer Revolution started.  (I even worked on the original IBM PC (single 360k floppy drive).  I've seen a lot of change over these decades.  Some good, some not so good.
 
-html = """
-<table border="1x solid black">
-  <tr>
-    <th>Col 1</th>
-    <th>Col 2</th>
-  </tr>
-  <tr>
-    <td style="background-color:#FF1744">1a</td>
-    <td>2a</td>
-  </tr>
-  <tr>
-    <td style="background-color:#00CD33">1b</td>
-    <td>2b</td>
-  </tr>
-</table>
-"""
-
 
 
 ----
