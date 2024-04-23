@@ -2,7 +2,7 @@ Welcome Traveler!  Thanks for stopping by!
 
 ### About Me
 
-I consider myself a life-long learner with a heavy bent toward technology and solutions.  I'm a Java/J2EE Programer/Architect by trade, and have been active in the professional development community since 1983.  If you'd like to review my career you can check out my resume at my personal website:
+I consider myself a life-long learner with a heavy bent toward technology and solutions.  I'm a Java/J2EE Developer/Architect by trade, and have been active in the professional development community since 1983.  If you'd like to review my career you can check out my resume at my personal website:
 
     https://danielcarda.net/resume/
     
