@@ -10,6 +10,34 @@ I started programming in 1979 while still in High School.  The school had purcha
 
 I started my professional career at the same time the Micro Computer Revolution started.  (I even worked on the original IBM PC (single 360k floppy drive).  I've seen a lot of change over these decades.  Some good, some not so good.
 
+
+
+<table width="500" border="1"> 
+        <tr> 
+            <th>NAME</th> 
+            <th>AGE</th> 
+            <th>BRANCH</th> 
+        </tr> 
+  
+        <tr> 
+            <td bgcolor="green">BITTU</td> 
+            <td bgcolor="red">22</td> 
+            <td bgcolor="yellow">CSE</td> 
+        </tr> 
+  
+        <tr> 
+            <td bgcolor="yellow">RAKESH</td> 
+            <td bgcolor="green">25</td> 
+            <td bgcolor="red">EC</td> 
+        </tr> 
+    </table> 
+
+
+
+
+
+
+
 ----
 
 #### Education
