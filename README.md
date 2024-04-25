@@ -1,7 +1,7 @@
 
-![Welcome](images/TopBanner.png)  
+![Welcome](images/TopMainBanner.png)  
 
-Welcome Traveler!  Thanks for stopping by!
+Thanks for stopping by!
 
 ### About Me
 
