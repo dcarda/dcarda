@@ -30,6 +30,7 @@ I started my professional career at the same time the Micro Computer Revolution 
 
 ### Technical Skills
 <div align="center">
+
 |              |            |                                |               |            |
 |:------------:|:----------:|:------------------------------:|:-------------:|:----------:|
 | Ada          | Bit Bucket | Groovy/Grails | JDBC           | MongoDB       | Spring MVC |
