@@ -17,7 +17,6 @@ I started my professional career at the same time the Micro Computer Revolution 
 ----
 
 #### Education
-
 <div align="center">
 
 | Institution          | Degree               | Field of Study                    |
@@ -26,7 +25,6 @@ I started my professional career at the same time the Micro Computer Revolution 
 | Tusculum University  | Bachelors of Science | Applied Organizational Management |
 
 </div>
-
 
 ### Technical Skills
 <div align="center">
