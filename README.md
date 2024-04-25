@@ -2,7 +2,7 @@
 
 Thanks for stopping by!
 
-### About Me
+#### About Me
 
 I consider myself a life-long learner with a heavy bent toward technology and solutions.  I'm a Java/J2EE Developer/Architect by trade, and have been active in the professional development community since 1983.  If you'd like to review my career you can check out my resume at my personal website (currently under construction):
 
@@ -26,7 +26,7 @@ I started my professional career at the same time the Micro Computer Revolution 
 
 </div>
 
-### Technical Skills
+#### Technical Skills
 <div align="center">
 
 |              |            |                                |               |            |
@@ -54,7 +54,7 @@ I also enjoy photography.  You can see my photo album here (under construction):
     https://daniel.carda.net/album
 
 
-### Favorite Games
+#### Favorite Games
 
 Subnautica
 
