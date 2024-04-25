@@ -40,6 +40,7 @@ I started my professional career at the same time the Micro Computer Revolution 
 | AWS          | EJB        | JavaScript    | JUnit          | Spring        | XML        |
 | Bash         | Git        | JBoss         | Micro Services | Spring Boot   |            |
 </div>
+
 ----
 
 I do have a wide varity of interestes.  Almost to many to list here.  
