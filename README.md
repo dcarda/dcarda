@@ -17,16 +17,10 @@ I started my professional career at the same time the Micro Computer Revolution 
 ----
 
 #### Education
-
-<center>
-
 | Institution          | Degree               | Field of Study                    |
 |:--------------------:|:--------------------:|:---------------------------------:|
 | University of Alaska | Assocates of Arts    | Computer Information Systems      | 
 | Tusculum University  | Bachelors of Science | Applied Organizational Management |
-
-</center>
-
 
 ### Technical Skills
 |              |            |                                |               |            |
