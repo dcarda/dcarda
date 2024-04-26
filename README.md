@@ -72,6 +72,7 @@ Why can't they make more???  [BTW, the cake is real!]
 
 Currently playing
 No mans sky
+![No Mans Sky](images/NMSBanner.png)  
 
 Looking foward to
 
