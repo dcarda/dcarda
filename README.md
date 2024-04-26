@@ -74,7 +74,7 @@ Currently playing
 No mans sky
 ![No Mans Sky](images/NMSBanner.png)  
 
-Looking foward to
+Looking foward to<br>
 ![Astrometica](images/AstrometicaBanner.png)  
 
 
