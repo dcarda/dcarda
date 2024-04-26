@@ -54,10 +54,10 @@ I also enjoy photography.  You can see my photo album here (under construction):
 
     https://daniel.carda.net/album
 
-
-#### Favorite Games
+I'm also an avid gamer.  Here's a few of the games I'm interested in.
 
 Subnautica
+![Subnautica](images/SubnauticaBanner.png)  
 
 Doom 3
 
