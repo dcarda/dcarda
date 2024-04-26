@@ -60,6 +60,7 @@ Subnautica
 ![Subnautica](images/SubnauticaBanner.png)  
 
 Doom 3
+![Doom 3](images/Doom3Banner.png)  
 
 Currently playing
 
