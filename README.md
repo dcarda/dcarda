@@ -74,6 +74,10 @@ Currently playing
 No mans sky
 ![No Mans Sky](images/NMSBanner.png  =x250)  
 
+<img src="images/NMSBanner.png" width="250">
+
+
+
 Looking foward to<br>
 ![Astrometica](images/AstrometicaBanner.png)  
 
