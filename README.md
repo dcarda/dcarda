@@ -61,7 +61,7 @@ Love building games!
 ![Subnautica](images/SubnauticaBanner.png)  
 
 Doom 3
-It was just <b?so</b> well done!
+It was just <b>so</b> well done!
 ![Doom 3](images/Doom3Banner.png)  
 
 Portal (Both releases!)
