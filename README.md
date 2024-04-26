@@ -1,6 +1,6 @@
 ![Welcome](images/TopMainBanner.png)  
 
-Thanks for stopping by!
+✨  Thanks for stopping by!  ✨
 
 ### About Me
 
