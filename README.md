@@ -71,16 +71,12 @@ Why can't they make more???  [BTW, the cake is real!]
 
 
 Currently playing
-No mans sky
-![No Mans Sky](images/NMSBanner.png  =x250)  
-
-<img src="images/NMSBanner.png" width="250">
-
+No mans sky<br>
+<img src="images/NMSBanner.png" width="350">
 
 
 Looking foward to<br>
-![Astrometica](images/AstrometicaBanner.png)  
-
+<img src="images/AstrometicaBanner.png" width="350">
 
 
 
