@@ -57,10 +57,16 @@ I also enjoy photography.  You can see my photo album here (under construction):
 I'm also an avid gamer.  Here's a few of the games I'm interested in.
 
 Subnautica
+Love building games!
 ![Subnautica](images/SubnauticaBanner.png)  
 
 Doom 3
+It was just <b?so</b> well done!
 ![Doom 3](images/Doom3Banner.png)  
+
+Portal (Both releases!)
+
+
 
 Currently playing
 
