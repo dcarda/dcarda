@@ -8,7 +8,7 @@ I consider myself a life-long learner with a heavy bent toward technology and so
 
     https://danielcarda.net/resume/
     
-I started programming in 1979 while still in High School.  The school had purchased a TRS-80 Model I.  This machine didn't even have disk drives and used an external tape drive as storage.  I self taught myself TRS Basic and programed a version of Star Trek and was hooked from that point on.
+I started programming in 1979 while still in High School.  The school had purchased a TRS-80 Model I.  This machine didn't even have disk drives and used an external tape drive as storage.  I self-taught myself TRS Basic and programed a version of Star Trek and was hooked from that point on.
 
 During college I graduated to a Honeywell 6000 w/EIS mainframe.  I found it to be a fertile ground for hacking!  😄
 
