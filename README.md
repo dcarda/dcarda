@@ -2,7 +2,7 @@
 
 Thanks for stopping by!
 
-#### About Me
+### About Me
 
 I consider myself a life-long learner with a heavy bent toward technology and solutions.  I'm a Java/J2EE Developer/Architect by trade, and have been active in the professional development community since 1983.  If you'd like to review my career you can check out my resume at my personal website (currently under construction):
 
@@ -16,7 +16,7 @@ I started my professional career at the same time the Micro Computer Revolution 
 
 ----
 
-#### Education
+### Education
 <div align="center">
 
 | Institution          | Degree               | Field of Study                    |
@@ -26,7 +26,7 @@ I started my professional career at the same time the Micro Computer Revolution 
 
 </div>
 
-#### Technical Skills
+### Technical Skills
 <div align="center">
 
 |              |            |                                |               |            |
@@ -41,7 +41,8 @@ I started my professional career at the same time the Micro Computer Revolution 
 | Bash         | Git        | JBoss         | Micro Services | Spring Boot   |            |
 </div>
 
-----
+
+### Hobbies / Interests
 
 I do have a wide varity of interestes.  Almost to many to list here.  
 
