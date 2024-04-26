@@ -62,17 +62,21 @@ Love building games!
 
 Doom 3
 It was just <b>so</b> well done!
+
 ![Doom 3](images/Doom3Banner.png)  
 
 Portal (Both releases!)
-
+Why can't they make more???  [BTW, the cake is real!]
+![Portal](images/PortalBanner.png)  
 
 
 Currently playing
-
 No mans sky
 
 Looking foward to
+
+
+
 
 <!--
 **dcarda/dcarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
