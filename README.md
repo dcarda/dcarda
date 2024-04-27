@@ -27,7 +27,6 @@ I started my professional career at the same time the Micro Computer Revolution 
 </div>
 
 ### Technical Skills
-<div align="center">
 
 |              |            |                                |               |            |
 |:------------:|:----------:|:------------------------------:|:-------------:|:----------:|
@@ -40,7 +39,6 @@ I started my professional career at the same time the Micro Computer Revolution 
 | AWS          | EJB        | JavaScript    | JUnit          | Spring        | XML        |
 | Bash         | Git        | JBoss         | Micro Services | Spring Boot   |            |
 
-</div>
 
 
 
