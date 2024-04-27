@@ -39,6 +39,7 @@ I started my professional career at the same time the Micro Computer Revolution 
 | Apache Maven | Eclipse    | Java Swing    | JSP            | SOAP          | Wildfly    |
 | AWS          | EJB        | JavaScript    | JUnit          | Spring        | XML        |
 | Bash         | Git        | JBoss         | Micro Services | Spring Boot   |            |
+
 </div>
 
 
