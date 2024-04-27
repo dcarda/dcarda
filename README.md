@@ -38,7 +38,7 @@ I started my professional career at the same time the Micro Computer Revolution 
 | Apache CXF   | Docker     | Java          | JSON           | REST          | WebSphere  |
 | Apache Maven | Eclipse    | Java Swing    | JSP            | SOAP          | Wildfly    |
 | AWS          | EJB        | JavaScript    | JUnit          | Spring        | XML        |
-| Bash         | Git        | JBoss         | Micro Services | Spring Boot   |            |
+| Bash         | Git   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/>      | JBoss         | Micro Services | Spring Boot   |            |
 </div>
 
 
