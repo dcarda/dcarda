@@ -28,16 +28,16 @@ I started my professional career at the same time the Micro Computer Revolution 
 
 ### Technical Skills
 
-|              |            |                                |               |            |
-|:------------:|:----------:|:------------------------------:|:-------------:|:----------:|
-| Ada          | Bit Bucket | Groovy/Grails | JDBC           | MongoDB       | Spring MVC |
-| Agile        | C/C++      | HTML          | Jenkins        | Multithreaded | SCRUM      |
-| AJAX         | CI/CD      | Intellij      | JMS            | Oracle        | SQL        |
-| Apache Ant   | DB/2       | J2EE          | JSF            | QPID ESB      | WebLogic   |
-| Apache CXF   | Docker     | Java          | JSON           | REST          | WebSphere  |
-| Apache Maven | Eclipse    | Java Swing    | JSP            | SOAP          | Wildfly    |
-| AWS          | EJB        | JavaScript    | JUnit          | Spring        | XML        |
-| Bash         | Git        | JBoss         | Micro Services | Spring Boot   |            |
+|              |            |                                |               |             |
+|:------------:|:----------:|:------------------------------:|:-------------:|:-----------:|
+| Ada          | Bit Bucket | Groovy/Grails | JDBC           | MongoDB       | Spring MVC  |
+| Agile        | C/C++      | HTML          | Jenkins        | Multithreaded | SCRUM       |
+| AJAX         | CI/CD      | Intellij      | JMS            | Oracle        | SQL         |
+| Apache Ant   | DB/2       | J2EE          | JSF            | QPID ESB      | WebLogic    |
+| Apache CXF   | Docker     | Java          | JSON           | REST          | WebSphere   |
+| Apache Maven | Eclipse    | Java Swing    | JSP            | SOAP          | Wildfly     |
+| AWS          | EJB        | JavaScript    | JUnit          | Spring        | XML         |
+| Bash         | Git        | JBoss         | Micro Services | Spring Boot   |             |
 
 
 
