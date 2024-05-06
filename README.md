@@ -16,6 +16,18 @@ I started my professional career at the same time the Micro Computer Revolution 
 
 ----
 
+### Contact & Social Media
+<div align="center">
+
+|                      |                                |
+|:-----------:|:--------------------:|
+| eMail     | GoneBy2025@CardaTechnologies.com  |
+| LinkedIn  | [LinkedIn](https://www.linkedin.com/in/danielcarda) |
+
+</div>
+
+
+
 ### Education
 <div align="center">
 
