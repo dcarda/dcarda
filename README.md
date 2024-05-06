@@ -22,7 +22,7 @@ I started my professional career at the same time the Micro Computer Revolution 
 |                      |                                |
 |:-----------:|:--------------------:|
 | eMail     | GoneBy2025@CardaTechnologies.com  |
-| [LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  | [LinkedIn](https://www.linkedin.com/in/danielcarda) |
+| https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white  | [LinkedIn](https://www.linkedin.com/in/danielcarda) |
 
 </div>
 
