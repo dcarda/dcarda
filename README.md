@@ -88,7 +88,7 @@ No mans sky<br>
 Looking foward to<br>
 <img src="images/AstrometicaBanner.png" width="350">
 
-### Random Joke Generator
+### Random Joke
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
