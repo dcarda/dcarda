@@ -55,11 +55,6 @@ I started my professional career at the same time the Micro Computer Revolution 
 
 </div>
 
-
-### Random Joke Generator
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ### Hobbies / Interests
 
 I do have a wide varity of interestes.  Almost to many to list here.  
@@ -92,6 +87,12 @@ No mans sky<br>
 
 Looking foward to<br>
 <img src="images/AstrometicaBanner.png" width="350">
+
+### Random Joke Generator
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
 
 <!--
 **dcarda/dcarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
